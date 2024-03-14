@@ -1,0 +1,9 @@
+Nhập tọa độ x của vectơ a: 2
+Nhập tọa độ y của vectơ a: 3
+Nhập tọa độ x của vectơ b: 3
+Nhập tọa độ y của vectơ b: 4
+1. Phép cộng vectơ a + b: [5.0, 7.0]
+   Phép trừ vectơ a - b: [-1.0, -1.0]
+2. Độ dài của vectơ a: 3.605551275463989
+   Độ dài của vectơ b: 5.0
+3. Cosin góc giữa hai vectơ a và b: 1.0
