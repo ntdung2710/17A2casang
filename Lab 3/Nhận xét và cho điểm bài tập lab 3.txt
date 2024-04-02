@@ -1,3 +1,5 @@
+Một số câu giống với bài của bạn Lê Minh Duy (cụ thể bài tập 3)
+ 
 - Bài 1: 
 a) đúng
 b) đúng
@@ -16,11 +18,11 @@ b) đúng
 c) đúng
 d) đúng
 e) đúng
-Điểm bài tập: 5.0
+Điểm bài tập: 5.0 : 2 (giống bài tập) = 2.5
 
 - Bài 4:
 a) đúng
 b) vẽ được phần trên
 Điểm bài tập: 0.75
 
-Tổng điểm bài tập lab 3: 8.75
+Tổng điểm bài tập lab 3: 6.25
