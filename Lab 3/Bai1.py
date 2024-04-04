@@ -4,7 +4,6 @@ while True:
         break
     else:
         print("Vui lòng nhập lại số nguyên dương.")
-'''
 # Tính tổng a
 s_a = 0
 for i in range(1, n + 1):
@@ -13,11 +12,3 @@ for i in range(1, n + 1):
         s_a_temp *= j
     s_a += s_a_temp
 print("a) S =", s_a)
-'''
-# tính b
-total = 0
-current_sum = 0
-for i in range(1, n + 1):
-    current_sum += i
-    total += current_sum
-print("Tổng của dãy số là:", total)
