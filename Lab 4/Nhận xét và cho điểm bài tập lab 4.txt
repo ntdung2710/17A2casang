@@ -1,0 +1,29 @@
+- Bài 1: 
+a) sử dụng kiến thức vượt ngoài kiến thức các lab đã học
+b) sử dụng kiến thức vượt ngoài kiến thức các lab đã học
+c) sử dụng kiến thức vượt ngoài kiến thức các lab đã học
+Điểm bài tập: 1.25
+
+- Bài 2: 
+a) đúng
+b) đúng
+c) đúng
+Điểm bài tập: 3.0
+
+- Bài 3: đúng
+Điểm bài tập: 1.0 
+
+- Bài 4:
+a) nếu em cho điều kiện là 6**a <= n, ví dụ cho n = 3 thì 6**1 > 3 rổi, vòng lặp đâu có chạy?
+b) điều kiện vòng lặp của em câu b cũng gặp lỗi như vậy
+c) đúng
+d) đúng
+Điểm bài tập: 1.0
+
+- Bài 5: sử dụng kiến thức vượt ngoài kiến thức các lab đã học 
+Điểm bài tập: 0.75
+
+- Bài 6: sử dụng kiến thức vượt ngoài kiến thức các lab đã học 
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 4: 7.5
